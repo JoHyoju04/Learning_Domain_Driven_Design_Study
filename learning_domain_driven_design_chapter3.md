@@ -1,7 +1,6 @@
 # 03_도메인 복잡성 관리
 
 ## 바운디드 컨텍스트란 무엇인가?
----
 비즈니스 도메인을 작은, 관리 가능한 영역으로 분할하는데 사용
 예시 ) 온라인 쇼핑몰 시스템의 경우 "주문 관리", "상품 관리", "고객 관리" 등
 ![context bounded](https://github.com/JoHyoju04/Learning_Domain_Driven_Design_Study/assets/47858282/4a07c847-789f-4019-b784-a9f67b73658f)
